@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi! I'm Sean
+
+I'm a student at the University Technology Institute of Blagnac currently studying for a bachelor's degree in computer science specializing in application development.
+
+
+
+
+
+
 
 <!--
 **Sean0203/Sean0203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
