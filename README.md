@@ -1,11 +1,12 @@
-### Hi! I'm Sean
+### Hi! 👋 I'm Sean
 
 I'm a student at the University Technology Institute of Blagnac currently studying for a bachelor's degree in computer science specializing in application development.
 
+<!-- 
+STRUCTURE
 
 
-
-
+>
 
 
 <!--
