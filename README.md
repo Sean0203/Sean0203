@@ -1,12 +1,15 @@
-### Hi! 👋 I'm Sean
+### 🇺🇸 Hi! 👋 I'm Sean.
 
-I'm a student at the University Technology Institute of Blagnac currently working on obtaining a bachelor's degree in computer science specializing in application development.
+I'm a student at the University Technology Institute (IUT) of Blagnac currently working on obtaining a bachelor's degree in computer science specializing in application development: design, development and validation.
+You can find below some projects that have been realized within the framework of my course (named SAEs), but also some personal projects.
 
-<!-- 
-STRUCTURE
+### 🇫🇷 Bonjour! 👋 Je m'appelle Sean.
+
+Je suis un étudiant à l'Institut Universitaire de Technologie (IUT) de Blagnac en vue d'obtenir un BUT informatique avec une spécialisation en réalisation d'applications : conception, développement, validation.
+
+Vous pourrez trouver ci-dessous des projets qui ont été réalisés dans le cadre de ma formation (appelés des SAE), mais aussi des projets personnels. 
 
 
->
 
 
 <!--
