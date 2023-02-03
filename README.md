@@ -1,6 +1,6 @@
 ### Hi! 👋 I'm Sean
 
-I'm a student at the University Technology Institute of Blagnac currently studying for a bachelor's degree in computer science specializing in application development.
+I'm a student at the University Technology Institute of Blagnac currently working on obtaining a bachelor's degree in computer science specializing in application development.
 
 <!-- 
 STRUCTURE
