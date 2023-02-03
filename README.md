@@ -9,7 +9,10 @@ Je suis un étudiant à l'Institut Universitaire de Technologie (IUT) de Blagnac
 Vous pourrez trouver ci-dessous des projets qui ont été réalisés dans le cadre de ma formation (appelés des SAE), mais aussi des projets personnels. 
 
 
+Implementation of an e-commerce website and management of sensors to monitor the environment of a warehouse  
+Mise en place d'un site d'e-commerce et gestion de capteurs pour surveiller l'environnement d'un entrepôt de stockage  
 
+github.com/Sean0203/sae3-01-showcase
 
 <!--
 **Sean0203/Sean0203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
