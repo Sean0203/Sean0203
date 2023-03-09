@@ -12,7 +12,7 @@ Vous pourrez trouver ci-dessous des projets qui ont été réalisés dans le cad
 Implementation of an e-commerce website and management of sensors to monitor the environment of a warehouse  
 Mise en place d'un site d'e-commerce et gestion de capteurs pour surveiller l'environnement d'un entrepôt de stockage  
 
-https://github.com/Sean0203/sae3-01-showcase
+https://github.com/IUT-Blagnac/sae3-01-devapp-g2a-8
 
 <!--
 **Sean0203/Sean0203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
